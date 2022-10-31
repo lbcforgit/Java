@@ -1,0 +1,4 @@
+edu/luisbc/binarysearch/parallel/App.class
+edu/luisbc/binarysearch/parallel/SequentialSearchS.class
+edu/luisbc/binarysearch/parallel/SequentialSearchP.class
+edu/luisbc/binarysearch/parallel/BinarySearch.class
